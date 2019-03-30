@@ -1,1 +1,2 @@
 This a license file.
+This a sample text which was added later.
